@@ -12,3 +12,5 @@ The goal of the second assignment is as follows:
 ## Delivery
 
 The deadline for delivering the second assignment is 16/06/2024, 23:59, Rome timezone. We remind you that delivery must be done by making a merge request from one branch to the **main** branch of your group's project (e.g. https://git-softeng.polito.it/se-2023-24/group-xxx-yy/ezelectronics, with xxx being either _ita_ or _eng_ and yy being your group number).
+
+Paolino's job
